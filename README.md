@@ -1,6 +1,6 @@
 # Hi! I'm Mark Schlosser!
 
-Welcome to my personal web space which contains musings and links related to my personal life, hobbies, and interests.
+Welcome to my personal web space which contains musings and links related to my hobbies and interests.
 
 ## Links
 - [Instagram (Photography)](https://www.instagram.com/markschlosserphotography/)
