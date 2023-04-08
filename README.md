@@ -7,4 +7,4 @@ Welcome to my personal web space which contains musings and links related to my 
 - [GitHub (Personal)](https://github.com/markschlosser)
 - [Email](mailto:roadway_plainer03@icloud.com)
 
-[Back to Top](#hi_im_mark_schlosser)
+[Back to Top](#)
