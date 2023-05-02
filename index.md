@@ -2,8 +2,7 @@
 
 Welcome to my personal web space which contains musings and links related to my hobbies, interests, and life in general.
 
-## Pages
-- [About Me](/about)
+![21339323](https://user-images.githubusercontent.com/21339323/235732908-af32ed3b-7df3-4450-8f1a-3d4ae0c444a6.jpeg)
 
 ## Projects
 - [mini-universe](https://github.com/markschlosser/mini-universe) - Simple-but-complex software written in C which simulates interesting emergant particle interactions based on infinitely configurable seed states.
