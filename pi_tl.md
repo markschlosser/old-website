@@ -1,6 +1,9 @@
 # Video
 
-https://user-images.githubusercontent.com/21339323/235735968-a6035423-0e09-4baf-aef2-b4e657560f9f.mp4
+<video width="320" height="240" controls>
+	<source src="https://user-images.githubusercontent.com/21339323/235735968-a6035423-0e09-4baf-aef2-b4e657560f9f.mp4" type="video/mp4">
+	Your browser does not support the video tag.
+</video>
 
 # Setup
 
