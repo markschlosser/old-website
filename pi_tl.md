@@ -1,11 +1,13 @@
-# Video
+# Raspberry Pi Time-Lapse Project
+
+## Video
 
 <video width="320" height="240" controls>
 	<source src="https://user-images.githubusercontent.com/21339323/235735968-a6035423-0e09-4baf-aef2-b4e657560f9f.mp4" type="video/mp4">
 	Your browser does not support the video tag.
 </video>
 
-# Setup
+## Setup
 
 A snow storm was approaching my area and I wanted to try using one of my Raspberry Pis to capture a time-lapse video of the snow accumulation. Armed with a roll of plastic wrap, I set to work...
 
@@ -23,13 +25,13 @@ I wrapped the Pi Zero with plastic wrap to prevent moisture from messing up the 
 
 After taking a few experimental photos, I found a good position for the setup and pounded the stake into the cold ground. [Image](#image)
 
-# The Storm
+## The Storm
 
 This particular Raspberry Pi already has a simple homemade web interface deployed on it. This lets me control the time-lapse camera from anywhere within the reach of my home wifi. I will share this code at some point. I set the Raspberry Pi to capture an image with automatic exposure every forty-five seconds.
 
 The storm started around noon, but really picked up speed as the sun starting going down. Meaningful accumulation seemed to stop during the night. I left the patio light on all night (near the setup). The next morning, I retrieved the Raspberry Pi and unwrapped it from the plastic wrap. Everything survived! I moved the photos to my home computer.
 
-# Making the Video
+## Making the Video
 
 On Linux, I used jhead and ImageMagick to embed timestamps onto the images. ImageMagick also brightened some of the night shots. Then I used ffmpeg to stitch together a video from the shots. Audacity generated an ambient audio track.
 
