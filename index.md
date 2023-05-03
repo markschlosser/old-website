@@ -5,9 +5,10 @@ Welcome to my personal web space which contains musings and links related to my 
 ![21339323](https://user-images.githubusercontent.com/21339323/235732908-af32ed3b-7df3-4450-8f1a-3d4ae0c444a6.jpeg)
 
 ## Projects
-- [mini-universe](https://github.com/markschlosser/mini-universe) - Simple-but-complex software written in C which simulates interesting emergant particle interactions based on infinitely configurable seed states.
+- [mini-universe](https://github.com/markschlosser/mini-universe) - Simple-but-complex software written in C which simulates interesting emergent particle interactions based on infinitely configurable seed states.
 - [codez4fun](https://markschlosser.github.io/codez4fun/) - Asynchronous word guessing game for teams written in JavaScript for browsers. It needs no login or cookies, just a key shared among gamemasters.
 - [raspberry pi time-lapse](/pi_tl) - A fun project which used a Raspberry Pi to create a time-lapse video of snow accumulation during a storm.
+- [vimrc](https://github.com/markschlosseratbentley/vimrc) - Helpful vim configurations and instructions.
 - [black and white photography](/bw) - Personal hobby photographs taken mainly with the Pentax Q series of cameras.
 
 ## Links
